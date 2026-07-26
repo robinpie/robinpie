@@ -5,11 +5,13 @@ hi, my name is robin!
 ### ongoing:
 
 [!~ATH](https://github.com/robinpie/ath), an esoteric programming language inspired by ~ATH from Homestuck
+
 [viewpoint](https://github.com/robinpie/viewpoint), a desktop-environment-style terminal multiplexer
 
 ### complete but maintained as needed:
 
 [fontliberator](https://github.com/robinpie/fontliberator), a fully automatic font clean-room reimplementor, playing with the quirks of US copyright law
+
 [xcaca](https://github.com/robinpie/xcaca), an X server in ASCII art
 
 ## things i work on with other people:

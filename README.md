@@ -1,16 +1,18 @@
-## Hi there 👋
+hi, my name is robin!
 
-<!--
-**robinpie/robinpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## my personal projects:
 
-Here are some ideas to get you started:
+### ongoing:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[!~ATH](https://github.com/robinpie/ath), an esoteric programming language inspired by ~ATH from Homestuck
+[viewpoint](https://github.com/robinpie/viewpoint), a desktop-environment-style terminal multiplexer
+
+### complete but maintained as needed:
+
+[fontliberator](https://github.com/robinpie/fontliberator), a fully automatic font clean-room reimplementor, playing with the quirks of US copyright law
+[xcaca](https://github.com/robinpie/xcaca), an X server in ASCII art
+
+## things i work on with other people:
+
+[i do web design](https://github.com/Sushii64/kaicomic) for the [Null and Void](https://null.pixspla.net/) webcomic
+i am co-creator of the [Oboe programming language](https://github.com/OboeLang/)

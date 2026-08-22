@@ -8,6 +8,8 @@ hi, my name is robin!
 
 [viewpoint](https://github.com/robinpie/viewpoint), a desktop-environment-style terminal multiplexer
 
+[OpenGET](https://grandexchange.dreamstation.systems/), an Old School RuneScape market analysis tool and flipping calculator
+
 ### complete but maintained as needed:
 
 [fontliberator](https://github.com/robinpie/fontliberator), a fully automatic font clean-room reimplementor, playing with the quirks of US copyright law

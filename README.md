@@ -8,9 +8,11 @@ hi, my name is robin!
 
 [viewpoint](https://github.com/robinpie/viewpoint), a desktop-environment-style terminal multiplexer
 
-[OpenGET](https://grandexchange.dreamstation.systems/), an Old School RuneScape market analysis tool and flipping calculator
+[convert Hypnospace Outlaw pages to real web pages](https://github.com/robinpie/.hsp-to-web)
 
 ### complete but maintained as needed:
+
+[OpenGET](https://grandexchange.dreamstation.systems/), an Old School RuneScape market analysis tool and flipping calculator
 
 [fontliberator](https://github.com/robinpie/fontliberator), a fully automatic font clean-room reimplementor, playing with the quirks of US copyright law
 

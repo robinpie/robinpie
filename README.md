@@ -12,7 +12,7 @@ hi, my name is robin!
 
 ### complete but maintained as needed:
 
-[OpenGET](https://grandexchange.dreamstation.systems/), an Old School RuneScape market analysis tool and flipping calculator
+[OpenGET](https://grandexchange.dreamstation.systems/) [(repo)](https://github.com/robinpie/httpdreamstationsystems/tree/main/openget), an Old School RuneScape market analysis tool and flipping calculator
 
 [fontliberator](https://github.com/robinpie/fontliberator), a fully automatic font clean-room reimplementor, playing with the quirks of US copyright law
 
